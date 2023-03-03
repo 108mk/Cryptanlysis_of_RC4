@@ -1,7 +1,7 @@
 # Cryptanlysis of RC4
 > As a part of E0-213 (coursework) at IISc Bengaluru, we explored the crypt analysis of RC4. We have summarize our findings in the atttached documents.
 
->The below meme will (hopefully) summarize the current scenario of RC4 as Psuedo random number generator.
+> We created the below meme. It (hopefully) will summarize the current scenario of RC4 as Psuedo random number generator.
 
 ![alt text](https://github.com/108mk/Cryptanlysis_of_RC4/blob/f61c0cff1d4eb1aa762cd6a5e1801a2b1e5c4f49/image_meme/rc4_meme.jpg)
 
