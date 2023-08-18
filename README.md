@@ -1,5 +1,5 @@
 # Cryptanlysis of RC4
-> As a part of E0-213 (coursework: Quantum Safe Cryptography) at IISc Bengaluru, we explored the crypt analysis of RC4 via the necessary literature review. We have summarized our findings in the attached documents.
+> As a part of E0-213 (coursework: Quantum Safe Cryptography) at IISc Bengaluru, we explored the crypt analysis of [RC4](https://en.wikipedia.org/wiki/RC4) (a PNRG) via the necessary literature review. We have summarized our findings in the attached documents.
 
 ## RC4 PNRG has primarily two categories of biases:
 >  $\rightarrow$ Single byte biases
