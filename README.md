@@ -1,16 +1,16 @@
-# Cryptanlysis of RC4
+# Cryptanalysis of RC4
 > As a part of E0-213 (coursework: Quantum Safe Cryptography) at IISc Bengaluru, we explored the crypt analysis of [RC4](https://en.wikipedia.org/wiki/RC4) (a PNRG) via the necessary literature review. We have summarized our findings in the attached documents.
 
 ## RC4 PNRG has primarily two categories of biases:
 >  $\rightarrow$ Single byte biases
 
-> $\rightarrow$ Consequitive byte biases
+> $\rightarrow$ Consequetive byte biases
 
-We have analysed both of them, as mentioned in the slides.
+We have analyzed both of them, as mentioned in the slides.
 
 ---------------------------------------
 
-## We created the below meme. It (hopefully) will summarize the current scenario of RC4 as a Psuedo random number generator.
+## We created the below meme. It (hopefully) will summarize the current scenario of RC4 as a pseudo-random number generator.
 
 ![alt text](https://github.com/108mk/Cryptanlysis_of_RC4/blob/f61c0cff1d4eb1aa762cd6a5e1801a2b1e5c4f49/image_meme/rc4_meme.jpg)
 
